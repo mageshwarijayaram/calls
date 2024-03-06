@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    margin-top: 10%;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    width: 1000px;
+    margin-left: 15%;
+    padding-top: 100px;
+    text-align: justify;
+}
+h1{
+    padding-right: 180px;
+}
+.button{
+    background-color: rgb(112, 178, 222);
+    margin-right: 46%;
+}
